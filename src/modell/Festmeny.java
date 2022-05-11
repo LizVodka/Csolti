@@ -24,6 +24,8 @@ public class Festmeny extends KiallitasiTargy{
         this.eleres = eleres;
     }
     
+    
+    
     public void megjelenites(){
         if(eleres.exists()){
             System.out.println("megjelenítés folyamatban...");

@@ -25,7 +25,7 @@ public class Galeria implements Iterable<KiallitasiTargy>, Serializable{
             
             
             //készítő és cím HIBÁS dátum
-            //Festmeny f3 = new Festmeny(LocalDate.parse("2023-01-01"), "készítő2", "cím1");
+//            Festmeny f3 = new Festmeny(LocalDate.parse("2023-01-01"), "készítő2", "cím1");
             
             //készítő és cím Fájl
             Festmeny f4 = new Festmeny(new File("kep.txt"), "készítő5", "cím4");
